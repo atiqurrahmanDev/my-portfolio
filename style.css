@@ -48,3 +48,30 @@ h2 {
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-add{
+    background-image: url(image/backround.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100px;
+    margin: 0;
+}
+.expereicne-item{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+    border-radius: 4px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#Full-stack{
+    border-left: 7px solid tomato;
+}
+
+#Baby-Web{
+    border-left: 7px solid blue;
+}
+
+footer p{
+    text-align: center;
+}
