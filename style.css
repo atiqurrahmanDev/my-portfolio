@@ -1,12 +1,9 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
-    font-size: 70px;
-}
-
-h2 {
     font-size: 50px;
 }
 
@@ -20,9 +17,23 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 8%;
 }
 
 .half-width img {
     width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(image/developer.png);
+    background-repeat: no-repeat;
 }
