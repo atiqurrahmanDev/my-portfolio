@@ -19,6 +19,15 @@ h2 {
     display: flex;
     margin-bottom: 100px;
 }
+.backround-map{
+    height: 800px;
+    background-color: rgb(255, 251, 244);
+}
+
+.hight-withd1stPic{
+    width: 755px;
+    height: 545px;
+}
 
 .half-width {
     width: 50%;
@@ -44,9 +53,10 @@ h2 {
 }
 
 .dream-big {
-    background-image: url(image/developer.png);
+    background-image: url(image/2nd.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 200px;
 }
 .experience-add{
     background-image: url(image/backround.png);
